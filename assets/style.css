@@ -39,11 +39,14 @@ footer{
 
 #didascalia {
     text-align: center;
+    
 }
 
 
 #featured {
     padding-left: 30px;
+    border-left: 2px solid rgb(255, 123, 0);
+    color:rgb(255, 123, 0);
 }
 
 
@@ -59,9 +62,13 @@ li {
     background-image: linear-gradient( rgb(245, 233, 165), rgb(248, 248, 248));
     border-top: 2px solid rgb(255, 123, 0);
 
-
-
 }
+
+hr {
+    size: 2px ;
+    color: rgba(16,119,119,255);
+}
+
 .poster {
     border-radius: 15px;
 }
